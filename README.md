@@ -1,26 +1,38 @@
-# BARYOPRO
-
-Creator of [BaryoVPN](https://github.com/BARYOPRO/BaryoVPN-Android) — privacy-focused Android networking software built around clear status, organized profiles, secure configuration handling and reliable Xray-based connectivity.
+<div align="center">
+  <h1>BARYOPRO</h1>
+  <p><strong>Building clear, privacy-minded Android networking experiences.</strong></p>
+  <p>
+    <a href="https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest"><img src="https://img.shields.io/badge/BaryoVPN-latest%20APK-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Latest BaryoVPN APK" /></a>
+    <a href="https://github.com/BARYOPRO/BaryoVPN-Android"><img src="https://img.shields.io/badge/official-distribution%20hub-0F766E?style=for-the-badge" alt="Official distribution hub" /></a>
+  </p>
+</div>
 
 ## Featured projects
 
-- [BaryoVPN Android](https://github.com/BARYOPRO/BaryoVPN-Android) — Official public distribution hub for BaryoVPN Android releases.
-- [wiresharebaryo-android](https://github.com/BARYOPRO/wiresharebaryo-android) — Android VPN distribution project for secure WireGuard and AmneziaWG connectivity.
+### [BaryoVPN Android](https://github.com/BARYOPRO/BaryoVPN-Android)
 
-## Focus areas
+The official APK-only distribution hub for BaryoVPN Android: organized profiles, clear connection status, privacy controls, live traffic insight and architecture-aware releases.
+
+**Latest:** [BaryoVPN 2.40.23 · Build 343](https://github.com/BARYOPRO/BaryoVPN-Android/releases/tag/v2.40.23)
+
+### [wiresharebaryo-android](https://github.com/BARYOPRO/wiresharebaryo-android)
+
+An Android VPN distribution project focused on WireGuard and AmneziaWG connectivity.
+
+## Focus
 
 - Android application development
 - Privacy-minded networking and VPN reliability
-- Xray, TLS verification and secure configuration exchange
-- React Native and Expo
+- Secure configuration handling and TLS-aware connectivity
+- Xray, React Native and Expo
 - Clear, practical user experiences
 
-## Latest release
+## Connect with the projects
 
-Download the latest BaryoVPN release from the official distribution repository:
+- [Download BaryoVPN](https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest)
+- [Browse BaryoVPN releases](https://github.com/BARYOPRO/BaryoVPN-Android/releases)
+- [Read BaryoVPN security guidance](https://github.com/BARYOPRO/BaryoVPN-Android/blob/main/SECURITY.md)
 
-[Download BaryoVPN](https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest)
-
-## Ownership
-
-BaryoVPN is created and maintained by **Ehsan Farzian**. The BaryoVPN name, branding, application builds and related materials remain protected intellectual property. Please review each repository's license and usage terms before reusing any material.
+<div align="center">
+  <sub>BaryoVPN · clear status · organized profiles · ready to connect</sub>
+</div>
