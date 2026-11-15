@@ -2,7 +2,7 @@
   <h1>BARYOPRO</h1>
   <p><strong>Building clear, privacy-minded Android networking experiences.</strong></p>
   <p>
-    <a href="https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest"><img src="https://img.shields.io/badge/BaryoVPN-latest%20APK-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Latest BaryoVPN APK" /></a>
+    <a href="https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest"><img src="https://img.shields.io/github/v/release/BARYOPRO/BaryoVPN-Android?display_name=tag&style=for-the-badge&logo=android&logoColor=white&label=BaryoVPN" alt="Latest BaryoVPN release" /></a>
     <a href="https://github.com/BARYOPRO/BaryoVPN-Android"><img src="https://img.shields.io/badge/official-distribution%20hub-0F766E?style=for-the-badge" alt="Official distribution hub" /></a>
     <a href="https://github.com/BARYOPRO/BaryoMusic/releases/latest"><img src="https://img.shields.io/github/v/release/BARYOPRO/BaryoMusic?display_name=tag&style=for-the-badge&logo=android&logoColor=white&label=Baryo%20Music" alt="Latest Baryo Music release" /></a>
   </p>
@@ -29,7 +29,7 @@ A local-first player for the music already on your Android device, with useful l
 
 The official APK-only distribution hub for BaryoVPN Android: organized profiles, clear connection status, privacy controls, live traffic insight and architecture-aware releases.
 
-**Latest:** [BaryoVPN 2.40.23 · Build 343](https://github.com/BARYOPRO/BaryoVPN-Android/releases/tag/v2.40.23)
+**Latest:** [BaryoVPN 2.40.28 · Build 348](https://github.com/BARYOPRO/BaryoVPN-Android/releases/tag/v2.40.28) · [Download the latest APK](https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest)
 
 ### [wiresharebaryo-android](https://github.com/BARYOPRO/wiresharebaryo-android)
 
