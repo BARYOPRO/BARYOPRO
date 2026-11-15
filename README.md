@@ -12,18 +12,20 @@
 
 ### [Baryo Music · Offline Android music player](https://github.com/BARYOPRO/BaryoMusic)
 
-A local-first player for the music already on your Android device, with useful listening and library tools and no required streaming catalog.
+A local-first Android player for the music already on your device, with practical listening tools and no required streaming catalog.
 
 <p align="center">
   <a href="https://github.com/BARYOPRO/BaryoMusic/releases/latest"><img src="https://raw.githubusercontent.com/BARYOPRO/BaryoMusic/main/docs/media/baryo-music-poster.webp" width="760" alt="Baryo Music poster" /></a>
 </p>
 
 - **Smart Mix:** Fresh Finds, Rediscover, and Favorites, created from local library and playback signals.
-- **Listening tools:** synced lyrics, sleep timer, device equalizer, tag editing, and queue controls.
+- **Optional Crossfade:** overlapping track transitions, off by default.
+- **Optional online lyrics:** LRCLIB lookup is off by default; local lyrics take priority and only track metadata is sent when enabled.
+- **Listening tools:** Bass Boost, equalizer, synced lyrics, sleep timer, tag editing, and queue controls.
 - **Portable libraries:** import and export M3U/M3U8 playlists; five Android APK download options.
 - **Privacy-minded:** music and mixes stay on-device; no streaming catalog is required.
 
-**Get Baryo Music:** [Latest release](https://github.com/BARYOPRO/BaryoMusic/releases/latest) · [Version 1.0.1](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.0.1)
+**Get Baryo Music:** [Latest release](https://github.com/BARYOPRO/BaryoMusic/releases/latest) · [Version 1.0.6](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.0.6) · [Website](https://baryopro.github.io/BaryoMusic/)
 
 ### [BaryoVPN Android](https://github.com/BARYOPRO/BaryoVPN-Android)
 
@@ -46,7 +48,7 @@ An Android VPN distribution project focused on WireGuard and AmneziaWG connectiv
 
 ## Connect with the projects
 
-- [Download Baryo Music v1.0.1](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.0.1)
+- [Download Baryo Music v1.0.6](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.0.6)
 - [Download BaryoVPN](https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest)
 - [Browse BaryoVPN releases](https://github.com/BARYOPRO/BaryoVPN-Android/releases)
 - [Read BaryoVPN security guidance](https://github.com/BARYOPRO/BaryoVPN-Android/blob/main/SECURITY.md)
