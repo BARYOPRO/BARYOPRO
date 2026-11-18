@@ -32,7 +32,7 @@ A local-first Android player for the music already on your device, with practica
 
 APK releases for BaryoVPN Android: organized profiles, clear connection status, privacy controls, live traffic insight and architecture-aware downloads.
 
-**Latest:** [BaryoVPN 2.40.28 · Build 348](https://github.com/BARYOPRO/BaryoVPN-Android/releases/tag/v2.40.28) · [Download the latest APK](https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest)
+**Latest:** [BaryoVPN 2.40.34](https://github.com/BARYOPRO/BaryoVPN-Android/releases/tag/v2.40.34) · [Download the latest APK](https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest)
 
 ### [wiresharebaryo-android](https://github.com/BARYOPRO/wiresharebaryo-android)
 
