@@ -19,13 +19,14 @@ A local-first Android player for the music already on your device, with practica
 </p>
 
 - **Smart Mix:** Fresh Finds, Rediscover, and Favorites, created from local library and playback signals.
-- **Optional Crossfade:** overlapping track transitions, off by default.
+- **Smart Performance:** Auto, Balanced, Battery Saver and Safe Performance profiles for smooth playback across more devices.
+- **Optional Crossfade:** overlapping track transitions, off by default; device-specific failures are isolated safely.
 - **Optional online lyrics:** LRCLIB lookup is off by default; local lyrics take priority and only track metadata is sent when enabled.
 - **Listening tools:** Bass Boost, equalizer, synced lyrics, sleep timer, tag editing, and queue controls.
-- **Portable libraries:** import and export M3U/M3U8 playlists; five Android APK download options.
+- **Portable libraries:** import and export M3U/M3U8 playlists; six Android APK download options, including arm64-v8a, armeabi-v7a, x86, x86_64, riscv64 and Universal.
 - **Privacy-minded:** music and mixes stay on-device; no streaming catalog is required.
 
-**Get Baryo Music:** [Latest release](https://github.com/BARYOPRO/BaryoMusic/releases/latest) · [Version 1.0.6](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.0.6) · [Website](https://baryopro.github.io/BaryoMusic/)
+**Get Baryo Music:** [Latest release](https://github.com/BARYOPRO/BaryoMusic/releases/latest) · [Version 1.5.3 Stability Hotfix](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.5.3) · [Website](https://baryopro.github.io/BaryoMusic/)
 
 ### [BaryoVPN Android](https://github.com/BARYOPRO/BaryoVPN-Android)
 
@@ -48,11 +49,11 @@ An Android VPN distribution project focused on WireGuard and AmneziaWG connectiv
 
 ## Connect with the projects
 
-- [Download Baryo Music v1.0.6](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.0.6)
+- [Download Baryo Music v1.5.3](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.5.3)
 - [Download BaryoVPN](https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest)
 - [Browse BaryoVPN releases](https://github.com/BARYOPRO/BaryoVPN-Android/releases)
 - [Read BaryoVPN security guidance](https://github.com/BARYOPRO/BaryoVPN-Android/blob/main/SECURITY.md)
-- [Email](mailto:Ehsanfarzian2025@outlook.com) · [Telegram @OwlHapp](https://t.me/OwlHapp)
+- [Email](mailto:Ehsanfarzian2025@outlook.com) · [Telegram @OWLHAPPY](https://t.me/OWLHAPPY)
 
 <div align="center">
   <sub>Baryo Music · BaryoVPN · thoughtful Android apps</sub>
