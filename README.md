@@ -26,7 +26,7 @@ A local-first Android player for the music already on your device, with practica
 - **Portable libraries:** import and export M3U/M3U8 playlists; six Android APK download options, including arm64-v8a, armeabi-v7a, x86, x86_64, riscv64 and Universal.
 - **Privacy-minded:** music and mixes stay on-device; no streaming catalog is required.
 
-**Get Baryo Music:** [Latest release](https://github.com/BARYOPRO/BaryoMusic/releases/latest) · [Version 1.7.0 · LUFS ClearSound](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.5.3) · [Website](https://baryopro.github.io/BaryoMusic/)
+**Get Baryo Music:** [Latest release](https://github.com/BARYOPRO/BaryoMusic/releases/latest) · [Version 1.7.1 · Reliability & Security Hardening](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.5.3) · [Website](https://baryopro.github.io/BaryoMusic/)
 
 ### [BaryoVPN Android](https://github.com/BARYOPRO/BaryoVPN-Android)
 
@@ -49,7 +49,7 @@ An Android VPN distribution project focused on WireGuard and AmneziaWG connectiv
 
 ## Connect with the projects
 
-- [Download Baryo Music v1.7.0](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.5.3)
+- [Download Baryo Music v1.7.1](https://github.com/BARYOPRO/BaryoMusic/releases/tag/v1.5.3)
 - [Download BaryoVPN](https://github.com/BARYOPRO/BaryoVPN-Android/releases/latest)
 - [Browse BaryoVPN releases](https://github.com/BARYOPRO/BaryoVPN-Android/releases)
 - [Read BaryoVPN security guidance](https://github.com/BARYOPRO/BaryoVPN-Android/blob/main/SECURITY.md)
